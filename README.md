@@ -3,6 +3,9 @@
 ### Save Your Visitors
 Open links in new tab if on different domain and not in the exception list.
 
+### WordPress Version
+https://github.com/alaanasssar/WP-diffDomainNewTab ( Thanks to Alaa Nassar )
+
 ### Bugs
 If you encounter any issues using this plugin please open an issue here and I'll try my best to fix it.
 
